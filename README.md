@@ -1,3 +1,4 @@
-#FreeCodeCamp
+# FreeCodeCamp
 
-My code to the problems on FreeCodeCamp.
+Journal for the problems in FreeCodeCamp.
+
