@@ -12,5 +12,6 @@ ourArray.push(["happy", "joy"]);
 // Setup
 var myArray = [["John", 23], ["cat", 2]];
 
+//Append an array of "dog" and 3 to myArray. 
 // Only change code below this line.
 myArray.push(["dog", 3]) ;
